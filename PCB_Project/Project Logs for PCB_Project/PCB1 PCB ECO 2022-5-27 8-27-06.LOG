@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=V1 Old Footprint=SOT-223 New Footprint=SOT-89
+Change Component Footprint: Designator=BOOT Old Footprint=TSW DIP-6*6*6_V New Footprint=SW
+Change Component Footprint: Designator=Key1 Old Footprint=TSW DIP-6*6*6_V New Footprint=SW
+Change Component Footprint: Designator=Key2 Old Footprint=TSW DIP-6*6*6_V New Footprint=SW
+Change Component Footprint: Designator=RESET Old Footprint=TSW DIP-6*6*6_V New Footprint=SW

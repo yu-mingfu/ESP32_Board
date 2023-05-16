@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=TXD Pin=JP1-2
+Added Pin To Net: NetName=RXD Pin=JP1-4
+Change Net Name : Old Net Name=NetLabel361 New Net Name=IO19
+Added Pin To Net: NetName=IO22 Pin=U1-36
+Added Net: Name=IO22
+Added Pin To Net: NetName=IO34 Pin=U1-6
+Added Net: Name=IO34
+Added Pin To Net: NetName=IO35 Pin=U1-7
+Added Net: Name=IO35
+Added Pin To Net: NetName=SEN_VN Pin=U1-5
+Added Net: Name=SEN_VN
+Added Pin To Net: NetName=SEN_VP Pin=U1-4
+Added Net: Name=SEN_VP

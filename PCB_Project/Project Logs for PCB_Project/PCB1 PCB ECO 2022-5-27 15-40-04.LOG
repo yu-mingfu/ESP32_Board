@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=IO19 Pin=JP1-5
+Removed Pin From Net: NetName=LCD_CLK Pin=JP1-6
+Added Pin To Net: NetName=LCD_BL Pin=JP1-5
+Added Pin To Net: NetName=IO19 Pin=JP1-6
+Added Pin To Net: NetName=LCD_CLK Pin=JP1-7

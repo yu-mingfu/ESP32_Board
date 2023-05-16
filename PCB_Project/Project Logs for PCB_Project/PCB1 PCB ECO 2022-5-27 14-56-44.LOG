@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=lcd-8
+Added Pin To Net: NetName=LCD_CLK Pin=U1-30
+Added Pin To Net: NetName=LCD_MOSI Pin=U1-37
+Added Pin To Net: NetName=NetLabel361 Pin=U1-31
+Added Net: Name=NetLabel361
